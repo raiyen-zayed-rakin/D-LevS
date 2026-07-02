@@ -245,15 +245,23 @@ Copyright (c) 2026 Raiyen Zayed Rakin
 
 ## Citation
 
-If you use this pipeline in research or production prototypes, please cite the repository:
+If you use this pipeline in research or production prototypes, please cite the repository and research paper:
 
 ```bibtex
 @software{dlevs2026,
   title  = {D-LevS: Dual-Level Deterministic Sequence Mining for Sequential Next-Product Prediction},
-  author = {Raiyen Zayed Rakin},
+  author = {Raiyen Zayed Rakin, MD. Nawshin Navin, Shadman Shabab Tanzim, Mohaimen-Bin-Noor},
   year   = {2026},
-  url    = {https://github.com/<your-username>/D-LevS}
+  url    = {https://github.com/raiyen-zayed-rakin/D-LevS}
 }
 ```
 
-Replace `<your-username>` with your GitHub organization or username after publishing the repo.
+```bibtex
+@article{dlevs2026,
+  title  = {D-LevS: Dual-Level Deterministic Sequence Mining for Sequential Next-Product Prediction},
+  author = {Raiyen Zayed Rakin, MD. Nawshin Navin, Shadman Shabab Tanzim, Mohaimen-Bin-Noor},
+  year   = {2026},
+  url    = {https://github.com/raiyen-zayed-rakin/D-LevS}
+}
+```
+
